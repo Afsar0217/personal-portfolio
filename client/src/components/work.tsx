@@ -53,13 +53,13 @@ const projects: Project[] = [
   },
   {
     id: 5,
-    title: "Task Management Tool",
-    description: "In Progress...",
-    image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600",
+    title: "Agriculture By-products Classifier",
+    description: "A machine learning-based web application that classifies agricultural by-products using image recognition and deep learning techniques.",
+    image: "https://i.imghippo.com/files/BwPF7137oM.jpg",
     category: "web",
-    tags: ["Next.js", "Prisma"],
-    demoUrl: "#",
-    githubUrl: "#"
+    tags: ["Python", "TensorFlow"],
+    demoUrl: "https://github.com/Afsar0217/agriculture-by-products",
+    githubUrl: "https://github.com/Afsar0217/agriculture-by-products"
   },
   {
     id: 6,
