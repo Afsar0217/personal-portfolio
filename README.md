@@ -4,12 +4,6 @@ A fully responsive personal portfolio website built with **HTML5**, **CSS3**, an
 
 ---
 
-## 📷 Screenshot
-
-*(Place a screenshot image here, e.g. `screenshots/homepage.png`)*
-
----
-
 ## 🚀 Features
 
 - Mobile-first responsive layout
