@@ -18,7 +18,7 @@ const projects: Project[] = [
     image: "https://i.imghippo.com/files/UN1423TGk.jpg",
     category: "web",
     tags: ["Python", "CNN"],
-    demoUrl: "https://github.com/Afsar0217/crypto-price-prediction",
+    demoUrl: "https://crypto-price-prediction-yrzmfcfwdsib6wnpjbbyzr.streamlit.app/",
     githubUrl: "https://github.com/Afsar0217/crypto-price-prediction"
   },
   {
@@ -63,13 +63,13 @@ const projects: Project[] = [
   },
   {
     id: 6,
-    title: "Fitness Tracker",
-    description: "In Progress...",
+    title: "Learning Path Generator with Model Context Protocol (MCP)",
+    description: "AI-based tool that generates personalized learning paths using MCP with YouTube, Notion, and Drive integration.",
     image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600",
-    category: "mobile",
-    tags: ["Flutter", "Dart"],
-    demoUrl: "#",
-    githubUrl: "#"
+    category: "AI&ML",
+    tags: ["Python", "MCP"],
+    demoUrl: "https://mcp-learning-path-generator-pfvv8i4ujfacmu4qfruv3l.streamlit.app/",
+    githubUrl: "https://github.com/Afsar0217/mcp-learning-path-generator"
   }
 ];
 
