@@ -111,7 +111,7 @@ export default function Footer() {
         
         <div className="border-t border-slate-700 mt-12 pt-8 text-center">
           <p className="text-slate-300">
-            &copy; 2024 Mohammad Afsar. All rights reserved. Built with React, Tailwind CSS, and GSAP.
+            &copy; 2025 Mohammad Afsar. All rights reserved. Built with React, Tailwind CSS, and GSAP.
           </p>
         </div>
       </div>
