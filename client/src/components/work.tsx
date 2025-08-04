@@ -65,7 +65,7 @@ const projects: Project[] = [
     id: 6,
     title: "Learning Path Generator with Model Context Protocol (MCP)",
     description: "AI-based tool that generates personalized learning paths using MCP with YouTube, Notion, and Drive integration.",
-    image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600",
+    image: "https://res.cloudinary.com/dhm5yx35q/image/upload/v1754332016/Gemini_Generated_Image_am2jo8am2jo8am2j_a4jocl.png",
     category: "AI&ML",
     tags: ["Python", "MCP"],
     demoUrl: "https://mcp-learning-path-generator-pfvv8i4ujfacmu4qfruv3l.streamlit.app/",
