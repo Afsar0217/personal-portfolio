@@ -69,7 +69,7 @@ export default function Header() {
               Contact
             </button>
             <a
-              href="https://drive.google.com/file/d/1hEsfUFoavEyPAb055iIalV90PbgnaIaJ/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1bHv107vMBywBW_gFULUWb--zP8LGC85s/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-blue-600 text-white px-6 py-2 rounded-full hover:bg-blue-700 transition-colors font-medium"
