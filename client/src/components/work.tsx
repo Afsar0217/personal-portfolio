@@ -43,13 +43,13 @@ const projects: Project[] = [
   },
   {
     id: 4,
-    title: "Todo App",
-    description: "A simple and responsive to-do list application built with React for managing daily tasks efficiently.",
-    image: "https://i.imghippo.com/files/MwWp1568s.jpg",
+    title: "Student Grade Prediction App",
+    description: "An interactive Streamlit-based web application that leverages machine learning to predict student grades by analyzing various academic,helping identify performance trends and potential areas for improvement.",
+    image: "https://res.cloudinary.com/dhm5yx35q/image/upload/v1754933890/Gemini_Generated_Image_vydj9fvydj9fvydj_d7nxdj.png",
     category: "design",
-    tags: ["React.js", "Javascript"],
-    demoUrl: "https://todo-app1-theta-nine.vercel.app/login.html",
-    githubUrl: "https://github.com/Afsar0217/todo-app"
+    tags: ["Machine Learning", "KNN"],
+    demoUrl: "https://student-grade-prediction-miueymjndre3pkmfwawruk.streamlit.app/",
+    githubUrl: "https://github.com/Afsar0217/student-grade-prediction"
   },
   {
     id: 5,
