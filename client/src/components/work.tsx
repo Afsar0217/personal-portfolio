@@ -44,7 +44,7 @@ const projects: Project[] = [
   {
     id: 4,
     title: "TodoX",
-    description: "A simple, responsive web-based to-do list application for managing and tracking tasks efficiently."
+    description: "A simple, responsive web-based to-do list application for managing and tracking tasks efficiently.",
 ",
     image: "https://res.cloudinary.com/dhm5yx35q/image/upload/v1754936004/1_nnsyca.jpg",
     category: "design",
