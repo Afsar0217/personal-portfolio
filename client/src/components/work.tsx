@@ -43,13 +43,14 @@ const projects: Project[] = [
   },
   {
     id: 4,
-    title: "Student Grade Prediction App",
-    description: "An interactive Streamlit-based web application that leverages machine learning to predict student grades by analyzing various academic,helping identify performance trends and potential areas for improvement.",
-    image: "https://res.cloudinary.com/dhm5yx35q/image/upload/v1754933890/Gemini_Generated_Image_vydj9fvydj9fvydj_d7nxdj.png",
+    title: "TodoX",
+    description: "A simple, responsive web-based to-do list application for managing and tracking tasks efficiently.
+",
+    image: "https://i.ytimg.com/vi/p6F5TBxs88A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAazRFSc5jgTSgEV4ZfscQRvgsj8g",
     category: "design",
-    tags: ["Machine Learning", "KNN"],
-    demoUrl: "https://student-grade-prediction-miueymjndre3pkmfwawruk.streamlit.app/",
-    githubUrl: "https://github.com/Afsar0217/student-grade-prediction"
+    tags: ["HTML", "JS"],
+    demoUrl: "https://todo-app1-theta-nine.vercel.app/login.html",
+    githubUrl: "https://github.com/Afsar0217/todo-app"
   },
   {
     id: 5,
