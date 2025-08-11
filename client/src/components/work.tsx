@@ -46,7 +46,7 @@ const projects: Project[] = [
     title: "TodoX",
     description: "A simple, responsive web-based to-do list application for managing and tracking tasks efficiently.
 ",
-    image: "https://i.ytimg.com/vi/p6F5TBxs88A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAazRFSc5jgTSgEV4ZfscQRvgsj8g",
+    image: "https://res.cloudinary.com/dhm5yx35q/image/upload/v1754936004/1_nnsyca.jpg",
     category: "design",
     tags: ["HTML", "JS"],
     demoUrl: "https://todo-app1-theta-nine.vercel.app/login.html",
